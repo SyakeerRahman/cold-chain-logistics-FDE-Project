@@ -159,7 +159,7 @@ streamlit run src\ui.py
 ```
 sudo apt update && sudo apt install -y python3-pip python3-venv git
 cd /home/ubuntu
-git clone https://github.com/nimowhyca/cold-chain-logistics-FDE-Project.git
+git clone https://github.com/SyakeerRahman/cold-chain-logistics-FDE-Project.git
 cd cold-chain-logistics-FDE-Project
 python3 -m venv venv
 source venv/bin/activate

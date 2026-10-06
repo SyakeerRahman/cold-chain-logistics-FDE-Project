@@ -137,7 +137,7 @@ Install these items:
 ### Step 1: Get the code and install the packages
 
 ```bash
-git clone https://github.com/nimowhyca/cold-chain-logistics-FDE-Project.git
+git clone https://github.com/SyakeerRahman/cold-chain-logistics-FDE-Project.git
 cd cold-chain-logistics-FDE-Project
 python -m venv venv
 venv\Scripts\activate          # Windows
@@ -407,7 +407,7 @@ Open http://localhost:8501. The app has two pages:
    ```bash
    sudo apt update && sudo apt install -y python3-pip python3-venv git
    cd /home/ubuntu
-   git clone https://github.com/nimowhyca/cold-chain-logistics-FDE-Project.git
+   git clone https://github.com/SyakeerRahman/cold-chain-logistics-FDE-Project.git
    cd cold-chain-logistics-FDE-Project
    python3 -m venv venv
    source venv/bin/activate
